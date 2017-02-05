@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.apachedx</groupId>
   <artifactId>common-util</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.6.5</version>
   <name>common-util</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
