@@ -1,7 +1,7 @@
 package org.apachedx.common.util;
 
 /**
- * 
+ * 整型帮助类
  * @author cai.hongzhi apachdx@gmail.com
  * @version 1.1
  *
