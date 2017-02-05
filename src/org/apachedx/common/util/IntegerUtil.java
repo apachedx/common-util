@@ -9,7 +9,7 @@ package org.apachedx.common.util;
 public final class IntegerUtil {
 	/**
 	 * 转换字符串成整型数值，错误格式返回0.
-	 * @param src
+	 * @param src 需要转换的字符串
 	 * @return 整型数值
 	 */
     public static Integer parseInt(String src) {
